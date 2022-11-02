@@ -2,7 +2,10 @@
 - 👀 I’m interested in Artificial Intelligence specially in machine learning.
 - 🌱 I’m currently learning Natural Languages Processing (NLP)
 - 💞️ I’m looking to collaborate on research related to Natural Languages Processing (NLP) and its related fields
-- 📫 How to reach me: Email: raseluddin102@gmail.com, Twitter: https://twitter.com/raseluddin102 
+- 📫 How to reach me: 
+-Email: raseluddin102@gmail.com
+-Twitter: https://twitter.com/raseluddin102
+-Youtube: www.youtube.com/@raseluddin 
 
 
 Research Profile:
