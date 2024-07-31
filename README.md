@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Md-Rasel-Uddin
 - 👀 I’m interested in Artificial Intelligence specially in machine learning.
-- 🌱 I’m currently learning Natural Languages Processing (NLP)
-- 💞️ I’m looking to collaborate on research related to Natural Languages Processing (NLP) and its related fields
+- 🌱 I’m currently learning and excited to explore generative AI
+- 💞️ I’m looking to collaborate on research related to AI and its related fields
 - 📫 How to reach me: 
  Email: raseluddin102@gmail.com
  Twitter: https://twitter.com/raseluddin102
@@ -9,7 +9,7 @@
 
 
 Research Profile:
-I am a research enthusiast. My research interest lies in AI specially natural language processing.
+I am a research enthusiast. My research interest lies in AI specially CV, natural language processing.
 I have worked with some of my university professors. I have some publications. Here are the my search profile.
 
 - Google Scholar: https://scholar.google.com/citations?user=gt_GTMIAAAAJ&hl=en&oi=ao
